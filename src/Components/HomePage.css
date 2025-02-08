@@ -1,0 +1,14 @@
+.one{
+display: flex;
+justify-content: space-between;
+}
+.Brand{
+    font-size: 4rem;
+    font-weight: 500;
+    max-width: 30px;
+}
+.Year{
+    font-size: 4rem;
+    font-weight: 500;
+    max-width: 30px;
+}
